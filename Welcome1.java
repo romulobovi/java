@@ -1,4 +1,3 @@
-// Figura 2.1: Welcome1.java
 // Programa de impressão de texto.
 
 public class Welcome1 

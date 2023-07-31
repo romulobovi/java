@@ -1,4 +1,3 @@
-// Figura 2.3: Welcome2.java
 // Imprimindo uma linha de texto com múltiplas instruções.
 
 public class Welcome2 
